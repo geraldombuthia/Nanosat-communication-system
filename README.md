@@ -8,11 +8,11 @@ This is the repo containing contents of the Tafiti Communication System. This sy
     <figcaption>Tafiti Ground Terminal 3D Model complete</figcaption>
   </figure>
   <figure style="margin-right: 0px;">
-    <img src="./Work%20Images/ground3DBack.png" alt="Tafiti Onboard Terminal" style="width: 500px; height:510px;">
-    <figcaption>Tafiti Onboard Terminal 3D Model from the back</figcaption>
+    <img src="/COMMS/Work%20Images/ground3DBack.png" alt="Tafiti Onboard Terminal" style="width: 500px; height:510px;">
+    <figcaption>Tafiti Ground Terminal 3D Model from the back</figcaption>
   </figure>
   <figure>
-    <img src="./Work%20Images/Onboard Comms 3D 2.png" alt="Tafiti Onboard Terminal" style="width: 500px; height:510px;">
+    <img src="/COMMS/Work%20Images/Onboard Comms 3D 2.png" alt="Tafiti Onboard Terminal" style="width: 500px; height:510px;">
     <figcaption>Tafiti Onboard Terminal 3D Model. Awaiting dimensions.</figcaption>
   </figure>
 </div>
