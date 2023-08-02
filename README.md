@@ -2,17 +2,17 @@
 
 This is the repo containing contents of the Tafiti Communication System. This system is built under the sponsorship of the Kenya Space Agency.
 
-<div style="display: flex; flex-direction: row;">
-  <figure style="margin-right: 0px;">
-    <img src="/COMMS/Work Images/GroundTerminal3D.png" alt="Tafiti Onboard Terminal" style="width: 500px;height:510px;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+  <figure style="margin-right: 20px; flex: 1 1 300px;">
+    <img src="/COMMS/Work Images/GroundTerminal3D.png" alt="Tafiti Onboard Terminal" style="width: 100%; height: auto;">
     <figcaption>Tafiti Ground Terminal 3D Model complete</figcaption>
   </figure>
-  <figure style="margin-right: 0px;">
-    <img src="/COMMS/Work%20Images/ground3DBack.png" alt="Tafiti Onboard Terminal" style="width: 500px; height:510px;">
+  <figure style="margin-right: 20px; flex: 1 1 300px;">
+    <img src="/COMMS/Work%20Images/ground3DBack.png" alt="Tafiti Onboard Terminal" style="width: 100%; height: auto;">
     <figcaption>Tafiti Ground Terminal 3D Model from the back</figcaption>
   </figure>
-  <figure>
-    <img src="/COMMS/Work%20Images/Onboard Comms 3D 2.png" alt="Tafiti Onboard Terminal" style="width: 500px; height:510px;">
+  <figure style="flex: 1 1 300px;">
+    <img src="/COMMS/Work%20Images/Onboard Comms 3D 2.png" alt="Tafiti Onboard Terminal" style="width: 100%; height: auto;">
     <figcaption>Tafiti Onboard Terminal 3D Model. Awaiting dimensions.</figcaption>
   </figure>
 </div>
